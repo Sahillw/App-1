@@ -12,7 +12,7 @@
 	<artifactId>03-springboot-MVC-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>03-springboot-MVC-1</name>
+	<name>03-springboot-MVC</name>
 	<description>First MVC project</description>
 	<url/>
 	<licenses>
